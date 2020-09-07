@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Hello Hoang
 My name is Seri
-=======
-Hello
->>>>>>> parent of 1f2d615... commit to Test.txt
+
